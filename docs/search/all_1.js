@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['busfault_5fhandler_0',['BusFault_Handler',['../stm32f4xx__it_8c.html#a850cefb17a977292ae5eb4cafa9976c3',1,'stm32f4xx_it.c']]]
+  ['buffer_0',['buffer',['../main_8c.html#a542df3d5bbe8c96a672476931ec18220',1,'main.c']]],
+  ['busfault_5fhandler_1',['BusFault_Handler',['../stm32f4xx__it_8c.html#a850cefb17a977292ae5eb4cafa9976c3',1,'stm32f4xx_it.c']]]
 ];
